@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="designPatternNames">
+        <item>Abstract factory</item>
+        <item>Builder</item>
+        <item>Factory Method</item>
+        <item>Lazy Initialization</item>
+        <item>Multiton</item>
+        <item>Object Pool</item>
+        <item>Prototype</item>
+        <item>Singleton</item>
+        <item>Bridge</item>
+        <item>Composite</item>
+        <item>Decorator</item>
+        <item>Command</item>
+        <item>Interpreter</item>
+    </string-array>
+</resources>

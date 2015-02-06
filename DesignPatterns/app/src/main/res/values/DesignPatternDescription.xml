@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="designPatternDescriptions">
+        <item>Provide an interface for creating families of related or dependent objects without specifying their concrete classes.</item>
+        <item>Separate the construction of a complex object from its representation, allowing the same construction process to create various representations.</item>
+        <item>Define an interface for creating a single object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.</item>
+        <item>Tactic of delaying the creation of an object, the calculation of a value, or some other expensive process until the first time it is needed. This pattern appears in the GoF catalog as "virtual proxy", an implementation strategy for the Proxy pattern.</item>
+        <item>Ensure a class has only named instances, and provide global point of access to them.</item>
+        <item>Avoid expensive acquisition and release of resources by recycling objects that are no longer in use. Can be considered a generalisation of connection pool and thread pool patterns.</item>
+        <item>Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype.</item>
+        <item>Ensure a class has only one instance, and provide a global point of access to it.</item>
+        <item>Decouple an abstraction from its implementation allowing the two to vary independently.</item>
+        <item>Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.</item>
+        <item>Attach additional responsibilities to an object dynamically keeping the same interface. Decorators provide a flexible alternative to subclassing for extending functionality.</item>
+        <item>Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations.</item>
+        <item>Given a language, define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language.</item>
+    </string-array>
+</resources>

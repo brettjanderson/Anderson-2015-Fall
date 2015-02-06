@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DesignPatterns</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_description">DescriptionActivity</string>
+    <string name="currentDesignPatternName">Name Of Design Pattern</string>
+    <string name="designDescription">Description of Design Pattern</string>
+    <string name="favoriteCheckBox">Favorite</string>
+    <string name="showDescriptionButton">Show Description</string>
+    <string name="nextPatternButton">Next...</string>
+
+</resources>
