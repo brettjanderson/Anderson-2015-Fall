@@ -1,0 +1,12 @@
+[
+  {
+  "name":"Bronco Stadium",
+  "location": { "latitude":43.60278575, "longitude":-116.1958694 },
+  "description":"Blue turf"
+  },
+  {
+  "name":"Morrison Center",
+  "location": { "latitude":43.60683334, "longitude":-116.2075746 },
+  "description":"Wood turf"
+  }
+]
